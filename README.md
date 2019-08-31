@@ -2,6 +2,8 @@
 
 Android için video downloader ⬇
 
+> ~ 4 saatte 🏃‍ yapılmıştır
+
 ## Kullanım Şekli
 
 - Youtube uygulamasından (veya instagram vs.), video ayarlarında **Paylaş** alanına gelin
