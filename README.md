@@ -8,7 +8,7 @@ Android için video downloader ⬇
 - Çıkan ekranda uygulamayı seçin
 - Artık arkaplanda otomatik olarak `Downloads/YDownloader` dizinine yükleyecektir
 
-![usage_ex](res/usage_ex.jpg)
+![usage_ex](res/usage_ex.png)
 
 ## Yapılabilirler
 
