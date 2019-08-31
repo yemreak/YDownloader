@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">YDownloader</string>
+    <string name="instruction1">📍 Youtube\'dan indirmek video istediğiniz videoyu açın.</string>
+    <string name="instruction2">📍 Çıkan alanda `Paylaş` seçeneğine tıklayın.</string>
+    <string name="instruction3">📍 Paylaş ekranından `Ydownloader` seçeneğini seçin.</string>
+    <string name="instruction4">📍 Uygulama arkaplanda indirme işlemini yapacaktır.</string>
+    <string name="instruction5">📍 İndirme tamamlandığında `İndirilenler/Ydownloader` dizinine konulacaktır.</string>
+    <string name="instruction6">📍 İndirme sessizce devam edecek, tamamlandığında belirecektir.</string>
+    <string name="instruction7">📍 Herhangi bir animasyon yoktur 😥</string>
 </resources>
