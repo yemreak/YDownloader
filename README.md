@@ -6,9 +6,10 @@ Android için video downloader ⬇
 
 ## 🔰 Kullanım Şekli
 
-- Youtube uygulamasından (veya instagram vs.), video ayarlarında **Paylaş** alanına gelin
-- Çıkan ekranda uygulamayı seçin
-- Artık arkaplanda otomatik olarak `Downloads/YDownloader` dizinine yükleyecektir
+- 🔗 Öncelikle [buradan](https://github.com/yedhrab/YDownloader/releases/download/Beta/ydownloader.apk) APK dosyasını indirin
+- 📺 Youtube uygulamasından (veya instagram vs.), video ayarlarında **Paylaş** alanına gelin
+- 👁️ Çıkan ekranda uygulamayı seçin
+- ✨ Artık arkaplanda otomatik olarak `Downloads/YDownloader` dizinine yükleyecektir
 
 ![usage_ex](res/usage_ex.png)
 ![insta_ex](res/insta_ex.jpg)
